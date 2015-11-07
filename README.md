@@ -11,3 +11,9 @@ How to use
 
     $ ruby weather_hitokuchi_test.rb http://feedproxy.google.com/hitokuchi_4610
 
+Copyright and license
+----
+
+Copyright (c) 2015 yoggy
+
+Released under the [MIT license](LICENSE.txt)
