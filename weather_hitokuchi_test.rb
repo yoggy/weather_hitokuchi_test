@@ -11,6 +11,11 @@
 #
 #     $ ruby weather_hitokuchi_test.rb http://feedproxy.google.com/hitokuchi_4610
 #
+# Copyright and license:
+#     Copyright (c) 2015 yoggy <yoggy0@gmail.com>
+#     Released under the MIT license
+#     http://opensource.org/licenses/mit-license.php
+#
 require 'open-uri'
 require 'nokogiri'
 require 'pp'
